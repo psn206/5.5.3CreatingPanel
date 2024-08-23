@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>UserPanel</Name>
+		<Assembly>"C:\Program Files\RevitAPI\CreatingPanel.dll"</Assembly>
+		<AddInId>E719C46F-61A3-4347-A37D-7DB08A96E35C</AddInId>
+		<FullClassName>CreatingPanel.Main</FullClassName>
+		<VendorId>ADSC</VendorId>
+	</AddIn>
+</RevitAddIns>
+
+
